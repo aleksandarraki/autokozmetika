@@ -155,3 +155,17 @@ h2 {
   background: var(--primary);
   color: white;
 }
+
+/* footer */
+
+footer img {
+  width: 200px;
+}
+
+footer .nav-link {
+  color: var(--accents);
+}
+
+footer .nav-link:hover {
+  color: var(--primary);
+}
